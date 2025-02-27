@@ -189,7 +189,7 @@ function App() {
           ></Route>
          <Route 
             path="/sections/:year/Templates" 
-            element={<Templatesimage />}
+            element={<Templates />}
         ></Route>
         </Routes>
       </BrowserRouter>
